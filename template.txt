@@ -1,0 +1,2 @@
+// All information will be encode in base64 format, wrapped inside <app_info> tag
+<app_info>JHDIWG&W*=</app_info>
