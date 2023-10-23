@@ -1,2 +1,2 @@
-// All information will be encode in base64 format, wrapped inside <app_info> tag
+// All information will be encode in base64 format, wrapped inside <some_thing></some_thing> tag
 <app_info>JHDIWG&W*=</app_info>
